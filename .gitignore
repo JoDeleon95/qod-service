@@ -31,3 +31,6 @@ HELP.md
 
 /qod_db/
 derby.log
+
+/.floo
+/.flooignore
